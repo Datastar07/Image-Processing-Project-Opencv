@@ -1,0 +1,9 @@
+name: Summer_Internship_Project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel=6.24.0=pyh6817e22_0
+  - numpy=1.25.0=py310hd02465a_0
+  - opencv=4.6.0=py310h4ed8f06_3
+prefix: C:\Users\LEGION\.conda\envs\Summer_Internship_Project
